@@ -1,0 +1,30 @@
+# virtual environment
+venv/
+.venv/
+virtualenv/
+
+# secrets
+.env
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# data
+data/
+*.csv
+
+# models
+models/
+*.pkl
+
+# mlflow
+mlruns/
+
+# jupyter
+.ipynb_checkpoints/
+
+# ide
+.idea/
+.vscode/
